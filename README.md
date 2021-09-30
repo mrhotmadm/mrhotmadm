@@ -8,7 +8,7 @@
 - 💞️ **Looking to collaborate on any FREE OR <ins>PAID</ins> projects!**
 - 📝 Websites, APIs, [data-responsive dashboards](https://cdn.upload.systems/uploads/KkVfED4Y.mp4), login & register systems, ROBLOX/general-purpose Multi-Tools, and much more!
 
--  📫 How to reach me: [Discord](https://discord.com/users/727282789551964302), [E-Mail](mailto:mrblackcto@outlook.com), [Repl.it](https://replit.com/@hexerous), [ROBLOX](https://www.roblox.com/users/2314460683/profile), [V3RMILLION](https://v3rmillion.net/member.php?action=profile&uid=1758248)
+-  📫 How to reach me: [Discord](https://discord.com/users/727282789551964302), [Email](mailto:mrblackcto@outlook.com), [Repl.it](https://replit.com/@hexerous), [ROBLOX](https://www.roblox.com/users/2314460683/profile), [V3RMILLION](https://v3rmillion.net/member.php?action=profile&uid=1758248)
 
 <ins>**GitHub Statistics -**</ins>
 
