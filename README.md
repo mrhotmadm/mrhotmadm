@@ -31,7 +31,8 @@
   <code><img height="40" alt="100UP Cloud Hosting" src="https://status.100up.org/static/icons/icon_512.294c29.png"></code>
 
   <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3>
+  
+  <img alt="mrhotmadm profile views"  src="https://camo.githubusercontent.com/5d4fbbbd2a4bdb13a7a1ffb605ffc890d97f463fa4cc7ab285a7daada0c0acb6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f62667573636174696e67267374796c653d666c61742d73717561726526636f6c6f723d677265656e">
 
   [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&theme=radical)](https://github.com/mrhotmadm/mrhotmadm)
-  <img alt="mrhotmadm profile views"  src="https://camo.githubusercontent.com/5d4fbbbd2a4bdb13a7a1ffb605ffc890d97f463fa4cc7ab285a7daada0c0acb6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f62667573636174696e67267374796c653d666c61742d73717561726526636f6c6f723d677265656e">
 </div>
