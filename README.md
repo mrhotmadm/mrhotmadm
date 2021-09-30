@@ -32,5 +32,5 @@
 
   <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3>
 
-  [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical)](https://github.com/mrhotmadm/mrhotmadm)
+  [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=obfuscating&show_icons=true&theme=radical)](https://github.com/mrhotmadm/mrhotmadm)
 </div>
