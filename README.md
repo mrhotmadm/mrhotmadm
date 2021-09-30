@@ -1,10 +1,10 @@
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
 - 👀 I'm interested in working on **FREE & PAID projects (preferrably backend, paid).**
-
+-
 - 🧠 Languages: `CSS`, `JavaScript`, `TypeScript`, & wrapping up `Python`.
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
 - 📚 Currently learning `React`, `GoLang`, & `C#`. I'm finishing up `Python` and from time-to-time reviewing my `JavaScript` skills.
-
+-
 - 💞️ **Looking to collaborate on any FREE OR <ins>PAID</ins> projects!**
 - 📝 Some of what I can create: **Websites, APIs, [data-responsive dashboards](https://cdn.upload.systems/uploads/KkVfED4Y.mp4), login & register systems, ROBLOX/general-purpose Multi-Tools, **
 
