@@ -13,8 +13,8 @@
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>
-<code><img height="40" alt="MongoDB" src="https://icons-for-free.com/iconfiles/png/512/mongodb+original+wordmark-1324760552967962880.png"></code>
-<code><img height="40" alt="Redis" src="https://icons-for-free.com/iconfiles/png/512/redis+original+wordmark-1324760569315692826.png"></code>
+<code><img height="40" alt="MongoDB" src="https://icons-for-free.com/iconfiles/png/512/mongodb+original-1324760553088442944.png"></code>
+<code><img height="40" alt="Redis" src="https://icons-for-free.com/iconfiles/png/512/redis+original-1324760569511622860.png"></code>
 <code><img height="40" alt="Visual Studio" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
 
 <ins>**GitHub Statistics -**</ins>
