@@ -12,7 +12,7 @@
 -  📫 How to reach me: [Discord](https://discord.com/users/727282789551964302), [Email](mailto:mrblackcto@outlook.com), [Repl.it](https://replit.com/@hexerous), [ROBLOX](https://www.roblox.com/users/2314460683/profile), [V3RMILLION](https://v3rmillion.net/member.php?action=profile&uid=1758248)
 
 <div align="center">
-  <h3 style="font-weight:bolder;"><ins>Tools/Skills I'm comfortable or have worked with</ins></h3>
+  <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
 
   <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
   <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
