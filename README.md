@@ -1,4 +1,4 @@
-<div align="center" style="padding-bottom:25px;">
+<div align="center">
   <img height="150" alt="fat boy mrhotmadm" src="https://cdn.upload.systems/uploads/UGoDzom6.png">
 </div>
 
