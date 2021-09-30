@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-style:solid;border-radius:50%;" height="120" alt="fat boy mrhotmadm" src="https://avatars.githubusercontent.com/u/71042941?v=4">
+  <img style="border-style:solid !important;border-radius:50% !important;" height="120" alt="fat boy mrhotmadm" src="https://avatars.githubusercontent.com/u/71042941?v=4">
 </div>
 
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
