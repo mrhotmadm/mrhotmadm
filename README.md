@@ -25,7 +25,7 @@
   <code><img height="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
   <code><img height="40" alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
   <code><img height="40" alt="NodeJS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
-  <code><img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+  <code><img height="40" alt="React" src="https://trafilea.github.io/nx-shopify/img/react-logo.png"></code>
   <code><img height="40" alt="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>
   <code><img height="40" alt="MongoDB" src="https://icons-for-free.com/iconfiles/png/512/mongodb+original-1324760553088442944.png"></code>
   <code><img height="40" alt="Redis" src="https://icons-for-free.com/iconfiles/png/512/redis+original-1324760569511622860.png"></code>
