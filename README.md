@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" alt="fat boy mrhotmadm" src="https://cdn.upload.systems/uploads/UGoDzom6.png">
-  
+  <h2>Full-Stack Developer</h2>
   
   [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
@@ -8,7 +8,7 @@
 
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
 - 👀 I'm interested in working on **FREE & PAID projects (preferrably backend, paid).**
-- 🧠 Languages: `CSS`, `JavaScript`, `TypeScript`, & wrapping up `Python`.
+- 🧠 Knowledge-base: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`, `Node.JS`, **`React.JS`**, & wrapping up .
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
 - 📚 Currently learning `React`, `GoLang`, & `C#`. I'm finishing up `Python` and from time-to-time reviewing my `JavaScript` skills.
 - 💞️ **Looking to collaborate on any FREE OR <ins>PAID</ins> projects!**
@@ -23,8 +23,8 @@
   <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
   <code><img height="40" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
   <code><img height="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-  <code><img height="40" alt="NodeJS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
   <code><img height="40" alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
+  <code><img height="40" alt="NodeJS" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
   <code><img height="40" alt="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>
   <code><img height="40" alt="MongoDB" src="https://icons-for-free.com/iconfiles/png/512/mongodb+original-1324760553088442944.png"></code>
   <code><img height="40" alt="Redis" src="https://icons-for-free.com/iconfiles/png/512/redis+original-1324760569511622860.png"></code>
