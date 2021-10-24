@@ -33,7 +33,7 @@
   <code><img height="40" alt="Redis" src="https://icons-for-free.com/iconfiles/png/512/redis+original-1324760569511622860.png"></code>
   <code><img height="40" alt="NPM" src="https://authy.com/wp-content/uploads/npm-logo.png"></code>
   <code><img height="40" alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-  <code><img height="40" alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+  <code><img height="40" alt="GitHub" src="https://github.com/mrhotmadm/mrhotmadm/blob/main/GitHub-Mark.png?raw=true"></code>
   <code><img height="40" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
   <code><img height="40" alt="Visual Studio" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
   <code><img height="40" alt="Heroku" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
