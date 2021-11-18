@@ -1,9 +1,6 @@
 <div align="center">
   <img height="150" alt="fat boy mrhotmadm" src="https://cdn.upload.systems/uploads/UGoDzom6.png">
   <h2 style="padding-bottom: 150px;">mrhotmadm | Full-Stack Developer</h2>
-  
-  [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 </div>
 
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
