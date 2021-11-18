@@ -10,11 +10,11 @@
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
 - 👀 I'm interested in working on front-end and back-end projects.
 - 🧠 Knowledge-base: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`, `Node.JS`, **`React.JS`**
-- 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
-- 📚 Currently learning `GoLang`, & `C#`. I'm finishing up `Python`.
+- 💽 Databases I can work with: `MySQL`, `MongoDB`, `Redis`.
+- 📚 I'm currently learning `GoLang`, & `C#`. I'm finishing up `Python`.
 - 💞️ **Looking to collaborate on any FREE OR <ins>PAID</ins> projects!**
-- 📝 Websites, APIs, [data-responsive dashboards](https://cdn.upload.systems/uploads/KkVfED4Y.mp4), advanced authentication systems, ROBLOX/general-purpose Multi-Tools, and much more!
--  📫 How to reach me: [Discord](https://discord.com/users/727282789551964302), [Email](mailto:mrblackcto@outlook.com), [Repl.it](https://replit.com/@hexerous), [ROBLOX](https://www.roblox.com/users/2314460683/profile), [V3RMILLION](https://v3rmillion.net/member.php?action=profile&uid=1758248)
+- 📝 Websites, APIs, [data-responsive dashboards](https://cdn.upload.systems/uploads/KkVfED4Y.mp4), advanced authentication systems, ROBLOX/general-purpose multi-tools, and much more!
+-  📫  You can reach me from my: [Discord](https://discord.com/users/727282789551964302), [Email](mailto:mrblackcto@outlook.com), [Repl.it](https://replit.com/@hexerous), [ROBLOX](https://www.roblox.com/users/2314460683/profile), [V3RMILLION](https://v3rmillion.net/member.php?action=profile&uid=1758248)
 
 <div align="center">
   <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
