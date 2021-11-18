@@ -4,7 +4,7 @@
 </div>
 
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
-- 👀 I'm interested in working on **Frontend and Backend projects (paid preferred).**
+- 👀 I'm interested in working on front-end and back-end projects.
 - 🧠 Knowledge-base: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`, `Node.JS`, **`React.JS`**
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
 - 📚 Currently learning `GoLang`, & `C#`. I'm finishing up `Python`.
