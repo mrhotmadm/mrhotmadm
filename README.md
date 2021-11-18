@@ -3,6 +3,10 @@
   <h2 style="padding-bottom: 150px;">mrhotmadm | Full-Stack Developer</h2>
 </div>
 
+<div align="center">
+  <h3 style="font-weight:bolder;"><ins>About Me</ins></h3>
+</div>
+
 - 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
 - 👀 I'm interested in working on front-end and back-end projects.
 - 🧠 Knowledge-base: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`, `Node.JS`, **`React.JS`**
@@ -14,7 +18,7 @@
 
 <div align="center">
   <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
-
+  
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></a></code>
