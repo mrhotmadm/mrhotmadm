@@ -43,7 +43,7 @@
   <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&theme=radical" />
   
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/obfuscating?tab=repositories">
