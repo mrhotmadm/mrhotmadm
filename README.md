@@ -40,6 +40,7 @@
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.digitalocean.com/"><img height="40" alt="DigitalOcean" src="https://camo.githubusercontent.com/1ca5f606b6bfca674b412de47865863c343b2bdb69253b030429fc5a320b0b14/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f73757065722b74696e792b69636f6e732b6469676974616c6f6365616e2d313332343435303731373938363334383132352e706e67"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://100up.org/"><img height="40" alt="100UP Cloud Hosting" src="https://status.100up.org/static/icons/icon_512.294c29.png"></a></code>
 
+  <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3>
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mrhotmadm">
     <img alt="mrhotmadm profile views"  src="https://camo.githubusercontent.com/5d4fbbbd2a4bdb13a7a1ffb605ffc890d97f463fa4cc7ab285a7daada0c0acb6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f62667573636174696e67267374796c653d666c61742d73717561726526636f6c6f723d677265656e">
