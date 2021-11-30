@@ -16,7 +16,7 @@
 - 📝 Websites, APIs, [data-responsive dashboards](https://cdn.upload.systems/uploads/KkVfED4Y.mp4), advanced authentication systems, ROBLOX/general-purpose multi-tools, and much more!
 
 <div align="center">
-  <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
+<!--   <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
   
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></a></code>
@@ -38,7 +38,7 @@
   <code><a target="_blank" rel="noopener noreferrer" href="https://visualstudio.microsoft.com/"><img height="40" alt="Visual Studio" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.heroku.com/"><img height="40" alt="Heroku" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.digitalocean.com/"><img height="40" alt="DigitalOcean" src="https://camo.githubusercontent.com/1ca5f606b6bfca674b412de47865863c343b2bdb69253b030429fc5a320b0b14/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f73757065722b74696e792b69636f6e732b6469676974616c6f6365616e2d313332343435303731373938363334383132352e706e67"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://100up.org/"><img height="40" alt="100UP Cloud Hosting" src="https://status.100up.org/static/icons/icon_512.294c29.png"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href="https://100up.org/"><img height="40" alt="100UP Cloud Hosting" src="https://status.100up.org/static/icons/icon_512.294c29.png"></a></code> -->
 
   <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3>
 
