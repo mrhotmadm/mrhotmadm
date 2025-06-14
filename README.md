@@ -1,12 +1,3 @@
-
-- 👋 Hey there, I’m azharr.
-- 👀 I'm interested in working on front-end, back-end, general software, and AI/ML projects. Open for collaboration, just shoot me a email or message!
-- 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
-  - `Node.js`, **`React.js`**, `
-- 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
-- 📚 Learning: `GoLang`, `C#`, `Svelte`, AI Engineering, LLM integration. 
-- 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
-
 <div align="center">
   
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></a></code>
@@ -31,11 +22,25 @@
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.digitalocean.com/"><img height="40" alt="DigitalOcean" src="https://assets.wheelhouse.com/media/_solution_logo_09222023_11957561.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://100up.org/"><img height="40" alt="100UP Cloud Hosting" src="https://avatars.githubusercontent.com/u/57064556?s=200&v=4"></a></code>
 
-  <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3> 
-</div>
+</div><br>
 
-  [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&theme=radical)](https://github.com/mrhotmadm)
+
+
+- 👋 Hey there, I’m azharr.
+- 👀 I'm interested in working on front-end, back-end, general software, and AI/ML projects. Open for collaboration, just shoot me a email or message!
+- 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
+  - `Node.js`, **`React.js`**, `
+- 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
+- 📚 Learning: `GoLang`, `C#`, `Svelte`, AI Engineering, LLM integration. 
+- 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
+
+
+ <!--
+ 
+  <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3> 
+ 
+ [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&theme=radical)](https://github.com/mrhotmadm)
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/obfuscating?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhotmadm&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
+  </a> -->
