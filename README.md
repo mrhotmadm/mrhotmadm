@@ -32,9 +32,10 @@
   <code><a target="_blank" rel="noopener noreferrer" href="https://100up.org/"><img height="40" alt="100UP Cloud Hosting" src="https://avatars.githubusercontent.com/u/57064556?s=200&v=4"></a></code>
 
   <h3 style="font-weight:bolder;"><ins>GitHub Statistics</ins></h3> 
+</div>
 
   [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mrhotmadm&show_icons=true&theme=radical)](https://github.com/mrhotmadm)
   
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/obfuscating?tab=repositories"></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhotmadm&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</div>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/obfuscating?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhotmadm&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
