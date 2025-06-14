@@ -8,7 +8,6 @@
 - 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
 
 <div align="center">
-  <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
   
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></a></code>
