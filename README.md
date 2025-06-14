@@ -23,6 +23,7 @@
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/"><img height="40" alt="MySQL" src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"><img height="40" alt="MongoDB" src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://redis.io/"><img height="40" alt="Redis" src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f2d97ad7fecfd74c8404e_667f2b54c10331419b7955fb_redis-original-wordmark-icon-2045x2048-nz2tg5u6.png"></a></code>
+  <br>
   <code><a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/"><img height="40" alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://github.com"><img height="40" alt="GitHub" src="https://github.com/mrhotmadm/mrhotmadm/blob/main/GitHub-Mark.png?raw=true"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/"><img height="40" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></a></code>
