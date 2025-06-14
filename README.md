@@ -1,19 +1,11 @@
-<div align="center">
-  <img height="150" alt="fat boy mrhotmadm" src="https://cdn.upload.systems/uploads/UGoDzom6.png">
-  <h2 style="padding-bottom: 150px;">mrhotmadm | Full-Stack Developer</h2>
-</div>
 
-<div align="center">
-  <h3 style="font-weight:bolder;"><ins>About Me</ins></h3>
-</div>
-
-- 👋 Hey there, I’m mrhotmadm, *aka. hexerous/hex.*
-- 👀 I'm interested in working on front-end and back-end projects.
-- 🧠 Knowledge-base: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`, `Node.JS`, **`React`**
-- 💽 Databases I can work with: `MySQL`, `MongoDB`, `Redis`.
-- 📚 I'm currently learning `GoLang`, & `C#`. I'm finishing up `Python`.
-- 💞️ **Looking to collaborate on any FREE OR <ins>PAID</ins> projects!**
-- 📝 Websites, APIs, [data-responsive dashboards](https://cdn.upload.systems/uploads/KkVfED4Y.mp4), advanced authentication systems, ROBLOX/general-purpose multi-tools, and much more!
+- 👋 Hey there, I’m azharr.
+- 👀 I'm interested in working on front-end, back-end, general software, and AI/ML projects. Open for collaboration, just shoot me a email or message!
+- 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
+  - `Node.js`, **`React.js`**, `
+- 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
+- 📚 Learning: `GoLang`, `C#`, `Svelte`, AI Engineering, LLM integration. 
+- 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
 
 <div align="center">
 <!--   <h3 style="font-weight:bolder;"><ins>Languages, Tools, & Skills</ins></h3>
