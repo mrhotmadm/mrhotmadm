@@ -29,7 +29,7 @@
 - 👋 Hey there, I’m azharr.
 - 👀 I'm interested in working on front-end, back-end, general software, and AI/ML projects. Open for collaboration, just shoot me a email or message!
 - 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
-  - `Node.js`, **`React.js`**, `
+  - `Node.js`, `React.js`, `Next.js`
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
 - 📚 Learning: `GoLang`, `C#`, `Svelte`, AI Engineering, LLM integration. 
 - 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
