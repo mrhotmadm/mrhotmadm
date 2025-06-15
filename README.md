@@ -1,7 +1,8 @@
 <div align="center">
   
-  <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></a></code>
+  
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" alt="TailwindCSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img height="40" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://www.python.org/"><img height="40" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></a></code>
