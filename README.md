@@ -32,7 +32,7 @@
 - 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
   - `Node.js`, `React.js`, `Next.js`
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
-- 📚 Learning/Interests: `GoLang`, `C#`, `Svelte`, AI engineering, LLM integration. 
+- 📚 Learning/Interests: `GoLang`, `C#`, `Svelte`, AI [agentic] engineering, LLM integration. 
 - 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
 
 
