@@ -28,11 +28,11 @@
 
 
 - 👋 Hey there, I’m azharr.
-- 👀 I'm interested in working on front-end, back-end, general software, and AI/ML projects. Open for collaboration, just shoot me a email or message!
+- 👀 I'm interested in working on frontend, backend, general software, and AI engineering/AIOps/LLM integration projects. Open for collaboration, just shoot me a email or message!
 - 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
   - `Node.js`, `React.js`, `Next.js`
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
-- 📚 Interests: AIOps/AI [agentic] engineering, LLM integration, SaaS applications, fullstack web development
+- 💫 Interests: AIOps/AI [agentic] engineering, LLM integration, SaaS applications, fullstack web development
 - 📚 Learning: `GoLang`, `C#`, `Svelte`, Langchain (Python + JavaScript), Agno
 - 📝 SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
 
